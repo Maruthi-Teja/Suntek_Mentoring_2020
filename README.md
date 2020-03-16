@@ -11,7 +11,7 @@
 10. 
 
 - Review
-1. 
+1. Review Done - try to print count. edge cases are nt handled
 2. 
 3. 
 4. 
