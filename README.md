@@ -1,16 +1,23 @@
-- Program 1 Review done
-# Programs 
-1. Done
-2. Done
+- Training
+1. Process
+2. 
 3. 
 4. 
-5. Done
+5. 
 6. 
+7. 
+8. 
+9. 
+10. 
 
-# Review
-1. Done
-2. In Progress
+- Review
+1. 
+2. 
 3. 
 4. 
-5. 12/3
+5. 
 6. 
+7. 
+8. 
+9. 
+10. 
