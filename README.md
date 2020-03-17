@@ -1,6 +1,6 @@
 - Training
 1. print count program is uploaded for review
-2. 
+2. uploaded for review
 3. 
 4. 
 5. 
