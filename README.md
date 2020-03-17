@@ -11,9 +11,9 @@
 10. 
 
 - Review
-1. Review Done - try to print count. edge cases are nt handled
+1. Review Done - Didnt add test cases
 2. 
-3. 
+3. Review Done - use recursion along with binary search
 4. 
 5. 
 6. 
