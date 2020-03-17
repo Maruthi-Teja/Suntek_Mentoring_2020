@@ -1,8 +1,8 @@
 - Training
 1. print count program is uploaded for review
 2. uploaded for review
-3. average approach is uploaded
-4. 
+3. average approach is uploaded  for review
+4. best approach is uploaded for review
 5. 
 6. 
 7. 
