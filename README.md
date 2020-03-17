@@ -14,7 +14,7 @@
 1. Review Done - Didnt add test cases
 2. 
 3. Review Done - use recursion along with binary search
-4. 
+4. Review Done - remove return 0 statement and use else instead of elseif.
 5. 
 6. 
 7. 
