@@ -15,12 +15,8 @@ class MissingNumber{
         if(arr[mid]<=mid+1)                           //travel to the right half of array
         {
         return missing(arr,mid+1,end);
-        }
-        else if(arr[mid]>mid+1)                        // travel to left half of array
-        {
-        return missing(arr,start,mid);
-        }
-        return 0;
+        }                   
+        return missing(arr,start,mid);             // travel to left half of array
   }
   void Testing()                       //testing different test cases
     {
