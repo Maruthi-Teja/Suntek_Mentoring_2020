@@ -1,7 +1,7 @@
 - Training
 1. print count program is uploaded for review
 2. uploaded for review
-3. average approach is uploaded  for review
+3. resolved review
 4. resolved review
 5. uploaded for review
 6. 
